@@ -15,4 +15,4 @@ page N de l'article: graphe sur les verbes présent dans le discours de chaque p
 
 Page N de l'article: l'effacement relatif des émotions morales dans le graphe 1
 ![Alt Text](agsel-emotionsmorales.png)
-![Alt Text](agsel-emomorales2.png)
+
