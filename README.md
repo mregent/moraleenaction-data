@@ -11,7 +11,9 @@ L'ordonnée indique le nombre d'occurences.
 
 ![Alt Text](agsel-paradoxesparperso.png)
 
-page  N  de l'article: Un relevé manuel des figures (oxymore, paradoxe logique, paradoxe contextuel) dans le discours des trois personnages principaux. Un tag est assigné à chaque phrase. L'ordonnée indique le nombre d'occurences.
+page  N  de l'article: Un relevé manuel des figures (oxymore, entendu en un sens élargi; paradoxe logique, paradoxe contextuel) dans le discours des trois personnages principaux. Un tag est assigné à chaque phrase. L'ordonnée indique le nombre d'occurences. Ci-dessous, des exemples d'occurences tirés du texte pour chaque catégorie.
+
+![Alt Text](Capture d'écran(1).png)
 
 page N de l'article: graphe sur les verbes présent dans le discours de chaque personnage (à actualiser)
 
